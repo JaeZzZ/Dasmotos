@@ -34,6 +34,10 @@ h2 {
     color: blue;
 }
 
+figure {
+    margin: 16px 40px 16px 0;
+}
+
 /* make sure your class and id names 
 have meaning instead of "blue" or "bold" */
 
