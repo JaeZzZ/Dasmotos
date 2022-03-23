@@ -38,8 +38,8 @@ figure {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 40px;
-    margin-inline-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 40px;
 }
 
 /* make sure your class and id names 
